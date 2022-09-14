@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natanael Albert</h1>
-<h3 align="center">A passionat Loving Melisa Aritonang from Yindunixiya</h3>
+<h3 align="center" Im Loving Melisa Aritonang from Yindunixiya</h3>
 
 - 🔭 I’m currently working on **SMKN 10**
 
